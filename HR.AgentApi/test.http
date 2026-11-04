@@ -1,0 +1,35 @@
+### Test 1 - Employee Details
+
+POST http://localhost:5000/api/chat
+Content-Type: application/json
+
+{
+    "message": "Get the details of employee 101"
+}
+
+### Test 2 - Leave Balance
+
+POST http://localhost:5000/api/chat
+Content-Type: application/json
+
+{
+    "message": "What is the leave balance of employee 101?"
+}
+
+### Test 3 - Leave Policy
+
+POST http://localhost:5000/api/chat
+Content-Type: application/json
+
+{
+    "message": "Explain the annual leave policy"
+}
+
+### Test 4 - Multiple Tools
+
+POST http://localhost:5000/api/chat
+Content-Type: application/json
+
+{
+    "message": "Get employee 101 details and also tell me the available leave balance"
+}

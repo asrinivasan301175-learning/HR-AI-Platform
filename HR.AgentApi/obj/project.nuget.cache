@@ -1,0 +1,22 @@
+{
+  "version": 2,
+  "dgSpecHash": "cSRpWec1tIg=",
+  "success": true,
+  "projectFilePath": "D:\\HR-AI-Platform\\HR.AgentApi\\HR.AgentApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ShreyaLap\\.nuget\\packages\\google.protobuf\\3.30.2\\google.protobuf.3.30.2.nupkg.sha512",
+    "C:\\Users\\ShreyaLap\\.nuget\\packages\\microsoft.agents.ai\\1.27.0\\microsoft.agents.ai.1.27.0.nupkg.sha512",
+    "C:\\Users\\ShreyaLap\\.nuget\\packages\\microsoft.agents.ai.abstractions\\1.27.0\\microsoft.agents.ai.abstractions.1.27.0.nupkg.sha512",
+    "C:\\Users\\ShreyaLap\\.nuget\\packages\\microsoft.extensions.ai\\10.10.0\\microsoft.extensions.ai.10.10.0.nupkg.sha512",
+    "C:\\Users\\ShreyaLap\\.nuget\\packages\\microsoft.extensions.ai.abstractions\\10.11.0\\microsoft.extensions.ai.abstractions.10.11.0.nupkg.sha512",
+    "C:\\Users\\ShreyaLap\\.nuget\\packages\\microsoft.extensions.ai.evaluation\\10.10.0\\microsoft.extensions.ai.evaluation.10.10.0.nupkg.sha512",
+    "C:\\Users\\ShreyaLap\\.nuget\\packages\\microsoft.extensions.compliance.abstractions\\10.10.0\\microsoft.extensions.compliance.abstractions.10.10.0.nupkg.sha512",
+    "C:\\Users\\ShreyaLap\\.nuget\\packages\\microsoft.extensions.vectordata.abstractions\\10.10.0\\microsoft.extensions.vectordata.abstractions.10.10.0.nupkg.sha512",
+    "C:\\Users\\ShreyaLap\\.nuget\\packages\\microsoft.ml.tokenizers\\2.0.0\\microsoft.ml.tokenizers.2.0.0.nupkg.sha512",
+    "C:\\Users\\ShreyaLap\\.nuget\\packages\\modelcontextprotocol\\2.3.1\\modelcontextprotocol.2.3.1.nupkg.sha512",
+    "C:\\Users\\ShreyaLap\\.nuget\\packages\\modelcontextprotocol.core\\2.3.1\\modelcontextprotocol.core.2.3.1.nupkg.sha512",
+    "C:\\Users\\ShreyaLap\\.nuget\\packages\\ollamasharp\\5.5.0\\ollamasharp.5.5.0.nupkg.sha512",
+    "C:\\Users\\ShreyaLap\\.nuget\\packages\\system.numerics.tensors\\10.0.12\\system.numerics.tensors.10.0.12.nupkg.sha512"
+  ],
+  "logs": []
+}

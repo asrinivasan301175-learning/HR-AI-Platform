@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="HR.AgentApi/HR.AgentApi.csproj" />
+  <Project Path="HR.BusinessApi/HR.BusinessApi.csproj" />
+  <Project Path="HR.McpServer/HR.McpServer.csproj" />
+</Solution>
